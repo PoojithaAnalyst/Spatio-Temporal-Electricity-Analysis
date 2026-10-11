@@ -55,9 +55,7 @@ The analysis explores temporal trends, seasonal variations, differences in state
 - Extend the analysis to support renewable energy planning and emissions monitoring.
 
 ## Project Type
-Academic Capstone Project — M.Sc. Data Science
-
-Institution: Kasturba Gandhi Degree & PG College for Women, Secunderabad  
+Academic Capstone Project — M.Sc. Data Science 
 University: Osmania University, Hyderabad
 
 ## Note
