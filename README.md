@@ -1,5 +1,4 @@
 # Spatio-Temporal-Electricity-Analysis
-# Spatio-Temporal Analysis of National Power Generation
 
 ## Project Overview
 This project focuses on analyzing the spatio-temporal patterns of electricity generation in India. It examines historical power generation data to understand temporal trends, seasonal variations, differences in state-level generation patterns, and the relationship between energy sources and carbon emissions.
